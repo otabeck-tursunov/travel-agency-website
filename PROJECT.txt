@@ -1,0 +1,45 @@
+1. Service
+    - name
+    - about
+
+2. Place
+    - name
+    - location
+    - image
+    - price
+    - day
+    - about
+
+3. Travel
+    - fk Place
+    - start_date
+    - end_date
+    - persons_number
+    - about
+
+4. Employee
+    - first_name
+    - last_name
+    - position
+    - image
+    - about
+
+5. Contact
+    - full_name
+    - phone_number
+    - comment
+    - date_time
+
+6. Comment
+    - full_name
+    - comment
+    - country
+    - city
+    - date
+
+
+7. Action
+    - image
+    - title
+    - about
+    - date
